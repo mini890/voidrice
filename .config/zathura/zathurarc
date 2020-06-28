@@ -10,8 +10,7 @@ map K zoom in
 map J zoom out
 map i recolor
 map P print
-map f search
 map p navigate previous
 map n navigate next
-map Left navigate previous
-map Right navigate next
+map <Left> navigate previous
+map <Right> navigate next
