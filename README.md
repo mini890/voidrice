@@ -1,6 +1,8 @@
-# The Voidrice (Luke Smith <https://lukesmith.xyz>'s dotfiles)
+# The Voidrice - Mini890 Fork
 
-These are the dotfiles deployed by [LARBS](https://larbs.xyz) and as seen on [my YouTube channel](https://youtube.com/c/lukesmithxyz).
+Original dotfiles created by [Luke Smith](https://github.com/LukeSmithxyz/voidrice)
+
+These are the dotfiles deployed by [LARBS](https://github.com/mini890/LARBS).
 
 - Very useful scripts are in `~/.local/bin/`
 - Settings for:
